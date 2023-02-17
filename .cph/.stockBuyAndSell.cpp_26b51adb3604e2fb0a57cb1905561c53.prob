@@ -1,0 +1,1 @@
+{"name":"Local: stockBuyAndSell","url":"d:\\striverSDESheet\\stockBuyAndSell.cpp","tests":[{"id":1676476079959,"input":"5\n7 6 4 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\striverSDESheet\\stockBuyAndSell.cpp","group":"local","local":true}

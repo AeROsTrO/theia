@@ -1,0 +1,1 @@
+{"name":"Local: findDuplicateNumberI","url":"d:\\striverSDESheet\\arraysII\\findDuplicateNumberI.cpp","tests":[{"id":1676636375688,"input":"5\n1 2 4 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\striverSDESheet\\arraysII\\findDuplicateNumberI.cpp","group":"local","local":true}
