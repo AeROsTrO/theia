@@ -1,0 +1,1 @@
+{"name":"Local: searchIn2DMatrix","url":"d:\\striverSDESheet\\arraysIII\\searchIn2DMatrix.cpp","tests":[{"id":1676707307704,"input":"2 2\n1 1\n4 8\n8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\striverSDESheet\\arraysIII\\searchIn2DMatrix.cpp","group":"local","local":true}
