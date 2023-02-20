@@ -30,6 +30,12 @@ int better(vector<int>&v){
     return -1;
 }
 int optimal(vector<int>&v){
+    //explains well: https://youtu.be/7pnhv842keE
+    //The question clearly states that the nums array has a majority element. Since it has a majority element we can say definitely the count is more than N/2.
+    // Majority element count = N/2 + x;
+    // Minority/Other elements = N/2 – x;
+    // Where x is the number of times it occurs after reaching the minimum value N/2.
+    // Now, we can say that count of minority elements and majority elements are equal up to a certain point of time in the array. So when we traverse through the array we try to keep track of the count of elements and which element we are tracking. Since the majority element appears more than N/2 times, we can say that at some point in array traversal we find the majority element. 
     int count=0;
     int ele=-1;
     for(int i:v){
